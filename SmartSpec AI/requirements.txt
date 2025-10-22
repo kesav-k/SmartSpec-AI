@@ -7,6 +7,8 @@ scikit-learn
 numpy
 tqdm
 gunicorn
+sentence-transformers
+
 
 
 
