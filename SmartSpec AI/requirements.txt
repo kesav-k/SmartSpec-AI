@@ -8,6 +8,8 @@ numpy
 tqdm
 gunicorn
 sentence-transformers
+faiss-cpu
+
 
 
 
