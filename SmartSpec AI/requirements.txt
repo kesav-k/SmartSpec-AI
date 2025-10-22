@@ -6,6 +6,8 @@ transformers
 scikit-learn
 numpy
 tqdm
+gunicorn
+
 
 
 
